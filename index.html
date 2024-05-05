@@ -24,6 +24,89 @@
 	
 	  <div class="h-entry">
 		
+			<h1><a href="https://weidok.al/2024/05/03/introducing-fed-meetup.html">Introducing Fed Meetup</a></h1>
+		
+
+		<a href="https://weidok.al/2024/05/03/introducing-fed-meetup.html" class="u-url"><time class="dt-published" datetime="2024-05-03 15:26:39 -0400">May 3, 2024</time></a>
+
+		<div class="e-content">
+			 <p>Now that we are out of the pandemic, federal travel is back in full swing. Federal employees are flying cross-country to get together and meet on various topics to do their work more effectively. I see this, especially at my organization, NASA. Just this winter I flew out to Kennedy Space Center for the Office of Safety and Mission Assurance Face-to-Face with more than 50 other colleagues to talk about where the organization is going and to do workshops together. We do these twice a year.</p>
+<p>Multiply 2x per year times the number of employees traveling, and then multiply that by all the other sub-organizations at NASA doing similar events and that adds up to a LOT of annual travel costs. But NASA is just one piece of the federal puzzle and a rather small piece at that. In 2023 NASA&rsquo;s $28.3 billion budget only accounted for 0.3% of the federal budget as shown in this graphic from <a href="https://www.usaspending.gov/explorer/agency">usaspending.gov</a>.</p>
+<!-- raw HTML omitted -->
+<h2 id="the-challenge-of-planning-group-travel">The Challenge of Planning Group Travel</h2>
+<p>Planning travel for large organizations is hard. When you combine the number of different origins travelers will be coming from with the different destinations they could travel to, it becomes difficult to understand the combinations. How do you compare the costs of your destinations? Right now, this is done by gut feel.</p>
+<p>Closer destinations or ones that already have people living there are probably cheaper, right? Well, usually, yes, in simple situations. But not always, and this can get complex when you have different amounts of travelers living in various potential destinations. Or what if you have people all across the country? How do you triangulate and weigh the &ldquo;closest&rdquo; city between all travelers? Not to mention some farther cities have cheaper airfare costs than closer cities. AND to even further complicate it, you need to consider each city&rsquo;s cost of living, which contributes to Meals &amp; Incidentals Expenses.</p>
+<p>Do you have a headache too?</p>
+<h2 id="introducing-fed-meetup">Introducing Fed Meetup</h2>
+<p>I created <a href="https://fedmeetup.com">Fed Meetup</a> to help federal travel planners optimize their destinations for large in-person meetings. It uses publicly available city pair and per diem rate data to compare travel costs for in-person events across multiple destinations.</p>
+<!-- raw HTML omitted -->
+<h3 id="how-does-it-work">How Does It Work?</h3>
+<p>First, enter how many <strong>days</strong> long the event will be and the <strong>month</strong> of travel. This is used to calculate per diem rates, which fluctuate in some locations based on the month.</p>
+<p>Next, input the various <strong>origins</strong> each traveler will be coming from, along with the number of travelers coming from the origin. Right now, you can specify an origin as either a NASA Center or an Airport. In the future, I plan to provide other predefined origins for agencies other than NASA. If you work at an agency and want your locations added to their own list, reach out to me and I&rsquo;d be happy to work with you.</p>
+<p>Once you have entered your origins, it&rsquo;s time to select the <strong>destinations</strong> you would like to compare. There are two options for adding destinations:</p>
+<ol>
+<li>Add bulk destinations from a preset (currently the only option is All NASA Centers. I plan to add locations for other agencies in the future)</li>
+<li>Add individual destinations by airport or NASA Center.</li>
+</ol>
+<p>After you&rsquo;ve followed the steps above, you&rsquo;re ready to <strong>submit</strong> and let Fed Meetup work its magic! Fed Meetup will run its calculations and provide you with a ranked list of destinations from cheapest to most expensive. If a direct flight can not be found for an origin-destination pair, that destination is ranked lower in the results and marked with an asterisk to indicate the total cost does not include airfare for that origin-destination pair. For each result, you can see the total cost, airfare cost, and per diem cost.</p>
+<h3 id="why-build-this">Why Build This?</h3>
+<p>Fed Meetup was born out of a <a href="https://www.nasa.gov/directorates/stmd/stmd-prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-spark/">NASA Spark</a> campaign. The campaign was looking for existing tools that could be used to evaluate the best meeting locations for large meetings, specifically using federal city-pair and per diem rates. No such tool existed, so I decided to build my own. I was looking for a fun side project that was useful, so this was a great fit! All-in it took me about 15 hours to build this app. I&rsquo;m proud that I was able to get it completed within the two-week timeframe I had before the Spark campaign closed, but there is a lot that I would like to improve.</p>
+<h3 id="future-plans">Future Plans</h3>
+<p>Remember how NASA was only 0.3% of the federal budget? My grand vision for Fed Meetup is to get it into the hands of as many federal agencies as I can. It&rsquo;s free and open to anyone to use, so my hope is that agencies will find it useful and adopt it to make their travel spending more efficient. All Americans benefit when taxpayer dollars are used more prudently.</p>
+<p>To make that grand vision possible, there are lots of little improvements I&rsquo;d like to make. This is more of a grocery list than a roadmap, but you have to start somewhere, right?</p>
+<ul>
+<li>🎨 Improve the design. Right now it is very wordy. Experience is not as good on mobile. Simplify the interface and make it more intuitive.</li>
+<li>🏙 Allow users to select cities as origins and destinations.</li>
+<li>✈Related to the above, for cities that have multiple airports (Washington D.C.) the tool would select the cheapest airport pair for that city.</li>
+<li>🧮 Update the results to show more info about how the calculation was made. This would allow users to fact-check the results and trust them more.</li>
+<li>❗ Improve form validation when there are input errors, so it is clear what needs to be changed.</li>
+<li>ℹ Add an &ldquo;About&rdquo; page that describes the tool and why it exists - link to this post???</li>
+<li>🏛 Add preset origins/destinations for other agencies (e.g., &ldquo;All Department of Energy Locations&rdquo;). 💡 If you are from another agency, please reach out and help me get the locations set up for your agency!</li>
+<li>🍃 Consider carbon footprint in the calculation and results. I would need a data source for these calculations. I have not looked into this yet.</li>
+<li>🚗 If traveling between close cities, calculate Privately Owned Vehicle mileage and compare it with airfare prices.</li>
+</ul>
+<h2 id="now-what">Now What?</h2>
+<p>Time to spread the word! I&rsquo;ll be out evangelizing Fed Meetup to those who need to know about it. If you work in a federal agency, send it to the person in your area who organizes travel. Have them try it out.</p>
+<p>If you use Fed Meetup, send me some feedback. My email inbox and LinkedIn DMs are open!</p>
+<p>Safe travels!</p>
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://weidok.al/2024/05/01/i-cant-tell.html" class="u-url"><time class="dt-published" datetime="2024-05-01 11:01:05 -0400">May 1, 2024</time></a>
+
+		<div class="e-content">
+			 <p>I can&rsquo;t tell you the number of people I&rsquo;ve saved by muting them when they unintentionally had their mics open on a call with 100+ participants. I just muted someone who accidentally interrupted a large meeting talking about a fly that had gotten into their house 🤦‍♂️</p>
+<p>Not all heroes wear capes&hellip;</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+			<h1><a href="https://weidok.al/2024/04/30/a-day-in.html">A Day In My Life At NASA</a></h1>
+		
+
+		<a href="https://weidok.al/2024/04/30/a-day-in.html" class="u-url"><time class="dt-published" datetime="2024-04-30 22:22:51 -0400">Apr 30, 2024</time></a>
+
+		<div class="e-content">
+			 <p>On days like today,  I marvel as I reflect all the awesome things I get to do in my role here at the NASA Safety Center.</p>
+<p>Today I&hellip;</p>
+<p>🐛 Hosted a &ldquo;bug hunt&rdquo; for the new app we launched last month, having the whole development team try to break the app to catch bugs before they become an issue.</p>
+<p>🌒 Spoke with someone from the Human Landing System program about their interest in using a fishbone (Ishikawa) diagram to identify what could cause the lunar lander to tip over during landing. This is a problem that has plagued recent commercial lunar landings, and we are looking to support these use cases in our new app.</p>
+<p>🥗 Ate a fantastic salad with my team at the café in the new Research Support Building at NASA Glenn Research Center</p>
+<p>🤹‍♀️ Consulted with a co-worker about how we could use Microsoft Delve to surface Reliability Engineers in the agency with unique skills that could be shared with others in that discipline.</p>
+<p>📊 Reviewed the Science Mission Directorate&rsquo;s system for tracking risks to inform how our team will build an agency-level tool that surfaces elevated risks from the mission directorates.</p>
+<p>👬 Demoed our API for mishap data to a group building a Digital Twin of NASA facilities. Mishap data could be layered with information we have on aging infrastructure to build a compelling case for which areas of NASA&rsquo;s infrastructure are in the most need of attention.</p>
+<p>And that all is just the tip of the iceberg! Looking forward to tomorrow!</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
 
 		<a href="https://weidok.al/2024/04/28/beautiful-day-out.html" class="u-url"><time class="dt-published" datetime="2024-04-28 10:45:56 -0400">Apr 28, 2024</time></a>
 
