@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://jakeweidokal.micro.blog/2024/05/25/i-replaced-our.html",
+				
+				"content_html": "<p>I replaced our mulch with gravel and started our first garden! We will have cucumbers and three varieties of bell pepper. 🪨🥒🫑</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "I replaced our mulch with gravel and started our first garden! We will have cucumbers and three varieties of bell pepper. 🪨🥒🫑\n\n<img src=\"uploads/2024/1dd78945dc.jpg\" width=\"600\" height=\"450\" alt=\"A blue house with a red door and a gravel flower bed with juniper bushes.\"><img src=\"uploads/2024/9b18d38019.jpg\" width=\"450\" height=\"600\" alt=\"A 4x8 raised bed garden with grass and a pond in the background.\">\n",
+				"date_published": "2024-05-25T09:32:41-04:00",
+				"url": "https://weidok.al/2024/05/25/i-replaced-our.html",
+				"tags": ["notes"]
+			},
+			{
+				"id": "http://jakeweidokal.micro.blog/2024/05/22/ever-wondered-what.html",
+				
+				"content_html": "<p>Ever wondered what the heck that fancy ChatGPT Large Language Model AI is <em>actually</em> doing? This animated 3D visualization is an awesome step-by-step guide! <a href=\"https://bbycroft.net/llm\">bbycroft.net/llm</a></p>\n",
+				"content_text": "Ever wondered what the heck that fancy ChatGPT Large Language Model AI is _actually_ doing? This animated 3D visualization is an awesome step-by-step guide! [bbycroft.net/llm](https://bbycroft.net/llm)\n",
+				"date_published": "2024-05-22T11:31:24-04:00",
+				"url": "https://weidok.al/2024/05/22/ever-wondered-what.html",
+				"tags": ["notes"]
+			},
+			{
 				"id": "http://jakeweidokal.micro.blog/2024/05/16/felt-good-to.html",
 				
 				"content_html": "<p>Felt good to be back on the grill yesterday!</p>\n<!-- raw HTML omitted -->\n",
@@ -37,7 +55,7 @@
 				"id": "http://jakeweidokal.micro.blog/2024/05/14/check-the-categorization.html",
 				"title": "Check the Categorization of Your Domain in Cloudflare Radar to Make Sure Federal Employees Can Visit Your Site",
 				"content_html": "<p>My blog is available on the NASA network now! For anyone else who wants their site to show up on a federal network, make sure you scan your domain at <a href=\"https://radar.cloudflare.com/\">https://radar.cloudflare.com/</a>. CISA uses Protective DNS, and Cloudflare is the provider behind that service. After scanning the URL, check the security tab to see if there are any security risks.</p>\n<!-- raw HTML omitted -->\n<p>If there are, then you&rsquo;ll need to request that your site be recategorized at this link: <a href=\"https://radar.cloudflare.com/domains/feedback\">https://radar.cloudflare.com/domains/feedback</a></p>\n<p>My site had originally been categorized as &ldquo;DGA Domain&rdquo;, which is a security risk, so I requested that categorization be removed. Cloudflare made the change within 24 hours, and now I can share my work-related blog posts with my coworkers!</p>\n",
-				"content_text": "My blog is available on the NASA network now! For anyone else who wants their site to show up on a federal network, make sure you scan your domain at [https://radar.cloudflare.com/](https://radar.cloudflare.com/). CISA uses Protective DNS, and Cloudflare is the provider behind that service. After scanning the URL, check the security tab to see if there are any security risks.\r\n\r\n<img src=\"uploads/2024/2024-05-14-7-43-25.png\" width=\"600\" height=\"311\" alt=\"\">\r\n\r\nIf there are, then you'll need to request that your site be recategorized at this link: [https://radar.cloudflare.com/domains/feedback](https://radar.cloudflare.com/domains/feedback)\r\n\r\nMy site had originally been categorized as \"DGA Domain\", which is a security risk, so I requested that categorization be removed. Cloudflare made the change within 24 hours, and now I can share my work-related blog posts with my coworkers!\n",
+				"content_text": "My blog is available on the NASA network now! For anyone else who wants their site to show up on a federal network, make sure you scan your domain at [https://radar.cloudflare.com/](https://radar.cloudflare.com/). CISA uses Protective DNS, and Cloudflare is the provider behind that service. After scanning the URL, check the security tab to see if there are any security risks.\r\n\r\n<img src=\"https://cdn.uploads.micro.blog/139317/2024/2024-05-14-7-43-25.png\" width=\"600\" height=\"311\" alt=\"\">\r\n\r\nIf there are, then you'll need to request that your site be recategorized at this link: [https://radar.cloudflare.com/domains/feedback](https://radar.cloudflare.com/domains/feedback)\r\n\r\nMy site had originally been categorized as \"DGA Domain\", which is a security risk, so I requested that categorization be removed. Cloudflare made the change within 24 hours, and now I can share my work-related blog posts with my coworkers!\n",
 				"date_published": "2024-05-14T07:51:18-04:00",
 				"url": "https://weidok.al/2024/05/14/check-the-categorization.html",
 				"tags": ["articles"]
