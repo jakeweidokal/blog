@@ -7,6 +7,51 @@
 	"items": [
 		
 			{
+				"id": "http://jakeweidokal.micro.blog/2024/06/17/do-you-ever.html",
+				
+				"content_html": "<p>Do you ever say something and then the gravity of what you just said hits you hard? I was chatting with a coworker preparing for retirement and casually mentioned that I have 30+ years left. 30+ years! What!? That&rsquo;s a lot of time to make meaningful and good things. That&rsquo;s the goal.</p>\n",
+				"content_text": "Do you ever say something and then the gravity of what you just said hits you hard? I was chatting with a coworker preparing for retirement and casually mentioned that I have 30+ years left. 30+ years! What!? That's a lot of time to make meaningful and good things. That's the goal.\n",
+				"date_published": "2024-06-17T14:29:26-04:00",
+				"url": "https://weidok.al/2024/06/17/do-you-ever.html",
+				"tags": ["notes"]
+			},
+			{
+				"id": "http://jakeweidokal.micro.blog/2024/06/10/how-to-write.html",
+				"title": "How to Write a Kickass Article",
+				"content_html": "<p><em>I would like to note that as I write this, I am not following the advice contained within whatsoever.</em></p>\n<p>I want to write better articles. I want to use them to reason and think. I would like to do <em>some</em> research and link to sources, so that my articles have some ground to stand on and they provide real value.</p>\n<p>To this end, I&rsquo;ve been doing some research on writing a good article and I made the cheat sheet below for myself. I don&rsquo;t plan to follow this dogmatically, but it will help me remember what to focus on in different stages of my writing. The following is primarily a reframing of the essay app&rsquo;s <a href=\"https://essay.app/guide\">writing guide</a>, because its advice resonated with me the most of what I found online.</p>\n<h3 id=\"how-to-write-a-kickass-article\">How to Write a Kickass Article</h3>\n<ol>\n<li>Read to get ideas.\n<ul>\n<li>Books</li>\n<li>Articles</li>\n</ul>\n</li>\n<li>Give yourself plenty of time to write.</li>\n<li>Make an outline to start.\n<ul>\n<li>Shoot for 10ish bullets. Any bigger and it is hard to see the flow of the argument.</li>\n</ul>\n</li>\n<li>Write a bad draft - remember <em>producing and editing</em> are different activities.\n<ul>\n<li>Produce, produce, produce.</li>\n</ul>\n</li>\n<li>Write more than you think you need, then chop it down.</li>\n<li>Edit it.\n<ol>\n<li>Rewrite every sentence.</li>\n<li>Reorder until it makes sense.</li>\n<li>Reread the whole thing.</li>\n<li>Refine, refine, refine.</li>\n</ol>\n</li>\n<li>Create a new outline - Try reconstructing your argument from memory. What you remember is the good stuff. The rest might be crap. Ponder that.</li>\n<li>Cut and paste from your old outline into the new one.</li>\n<li>Make sure you have hyperlinks in the text for citations.</li>\n</ol>\n",
+				"content_text": "*I would like to note that as I write this, I am not following the advice contained within whatsoever.*\n\nI want to write better articles. I want to use them to reason and think. I would like to do *some* research and link to sources, so that my articles have some ground to stand on and they provide real value.\n\nTo this end, I've been doing some research on writing a good article and I made the cheat sheet below for myself. I don't plan to follow this dogmatically, but it will help me remember what to focus on in different stages of my writing. The following is primarily a reframing of the essay app's [writing guide](https://essay.app/guide), because its advice resonated with me the most of what I found online.\n\n### How to Write a Kickass Article \n\n1. Read to get ideas.\n\t- Books\n\t- Articles\n2. Give yourself plenty of time to write.\n3. Make an outline to start.\n\t- Shoot for 10ish bullets. Any bigger and it is hard to see the flow of the argument.\n4. Write a bad draft - remember *producing and editing* are different activities.\n\t- Produce, produce, produce.\n5. Write more than you think you need, then chop it down.\n6. Edit it.\n\t1. Rewrite every sentence.\n\t2. Reorder until it makes sense.\n\t3. Reread the whole thing.\n\t4. Refine, refine, refine.\n7. Create a new outline - Try reconstructing your argument from memory. What you remember is the good stuff. The rest might be crap. Ponder that.\n8. Cut and paste from your old outline into the new one.\n9. Make sure you have hyperlinks in the text for citations.\n",
+				"date_published": "2024-06-10T23:48:04-04:00",
+				"url": "https://weidok.al/2024/06/10/how-to-write.html",
+				"tags": ["articles"]
+			},
+			{
+				"id": "http://jakeweidokal.micro.blog/2024/06/10/added-a-colophon.html",
+				
+				"content_html": "<p>Added a <a href=\"/colophon\">colophon</a> page. I wrote it in a who, what, when, where, and how format, and I like how it turned out. I haven&rsquo;t seen others doing it this way. I considered adding a &ldquo;why&rdquo; section but decided against it. I&rsquo;m not sure if the colophon is the right spot for that, but if not, then where?</p>\n",
+				"content_text": "Added a [colophon](/colophon) page. I wrote it in a who, what, when, where, and how format, and I like how it turned out. I haven't seen others doing it this way. I considered adding a \"why\" section but decided against it. I'm not sure if the colophon is the right spot for that, but if not, then where?\n",
+				"date_published": "2024-06-10T23:12:51-04:00",
+				"url": "https://weidok.al/2024/06/10/added-a-colophon.html",
+				"tags": ["notes"]
+			},
+			{
+				"id": "http://jakeweidokal.micro.blog/2024/06/10/added-a-changelog.html",
+				
+				"content_html": "<p>Added a changelog to my blog. For now, it is very small and very meta. <a href=\"https://weidok.al/changelog/\">weidok.al/changelog&hellip;</a></p>\n",
+				"content_text": "Added a changelog to my blog. For now, it is very small and very meta. [weidok.al/changelog...](https://weidok.al/changelog/)\n",
+				"date_published": "2024-06-10T22:46:02-04:00",
+				"url": "https://weidok.al/2024/06/10/added-a-changelog.html",
+				"tags": ["notes"]
+			},
+			{
+				"id": "http://jakeweidokal.micro.blog/2024/06/10/i-added-a.html",
+				
+				"content_html": "<p>I added a /chipotle page to my blog. I know this started as satire, but this might actually come in handy for me. <a href=\"https://weidok.al/chipotle/\">weidok.al/chipotle/</a></p>\n",
+				"content_text": "I added a /chipotle page to my blog. I know this started as satire, but this might actually come in handy for me. [weidok.al/chipotle/](https://weidok.al/chipotle/)\n",
+				"date_published": "2024-06-10T22:40:41-04:00",
+				"url": "https://weidok.al/2024/06/10/i-added-a.html",
+				"tags": ["notes"]
+			},
+			{
 				"id": "http://jakeweidokal.micro.blog/2024/05/30/scritch-scratch-swoop.html",
 				
 				"content_html": "<p>scritch scratch swoop and slash<br>\nfurious scribbles relent<br>\ntaut hush, reflection</p>\n",
