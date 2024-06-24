@@ -7,6 +7,33 @@
 	"items": [
 		
 			{
+				"id": "http://jakeweidokal.micro.blog/2024/06/20/a-recommendation-for.html",
+				"title": "A Recommendation for Trying AI",
+				"content_html": "<p><em>The following is a message I shared with my organization today.</em></p>\n<hr>\n<p>In light of NASA&rsquo;s push to train up the workforce on AI, I wanted to share a tool that I&rsquo;ve been using in my day-to-day. This is a simple tool that would be a good introduction for folks who haven&rsquo;t been using AI much.</p>\n<p><a href=\"https://www.perplexity.ai/\">Perplexity AI</a> is a conversational AI assistant and search engine that provides citations for sources it is using. You can also specify whether you want it to only search through academic journals, Reddit, or other sources.</p>\n<p>I&rsquo;ve been using this about as much as I&rsquo;ve been searching for links with Google. I&rsquo;ve been using it for research, learning new things, troubleshooting other tools I use at work, etc. The cited sources help me to see where the answer is coming from, to judge whether I should trust it or not. And it&rsquo;s really easy to use. Just type in a question you want an answer to, and it will give you cited responses.</p>\n<p>A lot of the other big LLMs are good too, and each have there own strengths and weaknesses. Perplexity would be happy to tell you what they are!</p>\n<p>Some others I&rsquo;ve tried are:</p>\n<ul>\n<li>ChatGPT, from Open AI: <a href=\"https://chatgpt.com/\">https://chatgpt.com/ </a></li>\n<li>Gemini, from Google: <a href=\"https://gemini.google.com/\">https://gemini.google.com/  </a></li>\n<li>Claude, from Anthropic: <a href=\"https://claude.ai/\">https://claude.ai/  </a></li>\n</ul>\n",
+				"content_text": "_The following is a message I shared with my organization today._\r\n\r\n---\r\n\r\nIn light of NASA's push to train up the workforce on AI, I wanted to share a tool that I've been using in my day-to-day. This is a simple tool that would be a good introduction for folks who haven't been using AI much.\r\n \r\n[Perplexity AI](https://www.perplexity.ai/) is a conversational AI assistant and search engine that provides citations for sources it is using. You can also specify whether you want it to only search through academic journals, Reddit, or other sources.\r\n \r\nI've been using this about as much as I've been searching for links with Google. I've been using it for research, learning new things, troubleshooting other tools I use at work, etc. The cited sources help me to see where the answer is coming from, to judge whether I should trust it or not. And it's really easy to use. Just type in a question you want an answer to, and it will give you cited responses.\r\n \r\nA lot of the other big LLMs are good too, and each have there own strengths and weaknesses. Perplexity would be happy to tell you what they are!\r\n \r\nSome others I've tried are:  \r\n\r\n- ChatGPT, from Open AI: [https://chatgpt.com/ ](https://chatgpt.com/)  \r\n- Gemini, from Google: [https://gemini.google.com/  ](https://gemini.google.com/)  \r\n- Claude, from Anthropic: [https://claude.ai/  ](https://claude.ai/)  \n",
+				"date_published": "2024-06-20T13:57:56-04:00",
+				"url": "https://weidok.al/2024/06/20/a-recommendation-for.html",
+				"tags": ["articles"]
+			},
+			{
+				"id": "http://jakeweidokal.micro.blog/2024/06/17/children-need-to.html",
+				
+				"content_html": "<p>&ldquo;Children need to be used under adult supervision&rdquo;</p>\n<p>This made me laugh.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "\"Children need to be used under adult supervision\"\n\nThis made me laugh.\n\n<img src=\"uploads/2024/e56c6610c3.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2024-06-17T21:28:02-04:00",
+				"url": "https://weidok.al/2024/06/17/children-need-to.html",
+				"tags": ["notes"]
+			},
+			{
+				"id": "http://jakeweidokal.micro.blog/2024/06/17/a-while-back.html",
+				
+				"content_html": "<p>A while back <a href=\"https://weidok.al/2024/05/03/introducing-fed-meetup.html\">I posted about Fed Meetup</a>, the app I built that won an internal NASA challenge. Today I received my prize, a NASA@WORK sticker that flew on a <a href=\"https://www.spacex.com/vehicles/dragon/\">SpaceX Dragon</a> capsule that splashed down back in April! I have now committed myself to using this water bottle for life&hellip; 😅</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "A while back [I posted about Fed Meetup](https://weidok.al/2024/05/03/introducing-fed-meetup.html), the app I built that won an internal NASA challenge. Today I received my prize, a NASA@WORK sticker that flew on a [SpaceX Dragon](https://www.spacex.com/vehicles/dragon/) capsule that splashed down back in April! I have now committed myself to using this water bottle for life... 😅\r\n\r\n<img src=\"uploads/2024/bdf10a22e6.jpg\" width=\"600\" height=\"450\" alt=\"A NASA@WORK sticker that was flown on a SpaceX Dragon, laying above an envelope addressed to Jacob Weidokal from NASA\">\r\n<img src=\"uploads/2024/0e5837811f.jpg\" width=\"600\" height=\"450\" alt=\"Jake holding his water bottle with the sticker displaying on the front of it\">\n",
+				"date_published": "2024-06-17T15:55:49-04:00",
+				"url": "https://weidok.al/2024/06/17/a-while-back.html",
+				"tags": ["notes"]
+			},
+			{
 				"id": "http://jakeweidokal.micro.blog/2024/06/17/do-you-ever.html",
 				
 				"content_html": "<p>Do you ever say something and then the gravity of what you just said hits you hard? I was chatting with a coworker preparing for retirement and casually mentioned that I have 30+ years left. 30+ years! What!? That&rsquo;s a lot of time to make meaningful and good things. That&rsquo;s the goal.</p>\n",
