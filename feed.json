@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://jakeweidokal.micro.blog/2026/01/16/im-concerned-the-cleaning-place.html",
+				
+				"content_html": "<p>I&rsquo;m concerned. The cleaning place with the AI voice agent called back. This time I asked if this is an AI voice agent. The voice chuckled and said &ldquo;No, I&rsquo;m not, I get that all the time&rdquo;. But I know that was not a real person. Why set up these voice agents to lie about what they are? Spooky.</p>\n",
+				"content_text": "I'm concerned. The cleaning place with the AI voice agent called back. This time I asked if this is an AI voice agent. The voice chuckled and said \"No, I'm not, I get that all the time\". But I know that was not a real person. Why set up these voice agents to lie about what they are? Spooky.\n",
+				"date_published": "2026-01-16T09:12:31-05:00",
+				"url": "https://weidok.al/2026/01/16/im-concerned-the-cleaning-place.html",
+				"tags": ["microblogs"]
+			},
+			{
+				"id": "http://jakeweidokal.micro.blog/2026/01/10/today-i-discovered-onthegomapcom-for.html",
+				
+				"content_html": "<p>Today I discovered <a href=\"https://onthegomap.com\">onthegomap.com</a> for planning out running and walking routes. Free, simple, no-ads. It&rsquo;s amazing!</p>\n",
+				"content_text": "Today I discovered [onthegomap.com](https://onthegomap.com) for planning out running and walking routes. Free, simple, no-ads. It's amazing!\n",
+				"date_published": "2026-01-10T06:24:43-05:00",
+				"url": "https://weidok.al/2026/01/10/today-i-discovered-onthegomapcom-for.html",
+				"tags": ["microblogs"]
+			},
+			{
 				"id": "http://jakeweidokal.micro.blog/2026/01/09/i-was-calling-cleaning-services.html",
 				
 				"content_html": "<p>I was calling cleaning services and just had my first AI voice call. It was eerie. I didn&rsquo;t notice it was AI until maybe 20 seconds in. It sounded very real. The AI even stutters, makes mistakes, or says &ldquo;um&rdquo; like a real person would. But there was something off about the perfectly consistent vocal inflections and it said &ldquo;okay&rdquo; the exact same, very curt way after each of my responses. I&rsquo;m guessing in 5 years I won&rsquo;t be able to tell if I&rsquo;m talking to a person or AI.</p>\n",
@@ -55,7 +73,7 @@
 				"id": "http://jakeweidokal.micro.blog/2026/01/02/with-the-new-year-i.html",
 				
 				"content_html": "<p>With the new year I was ready for a change to my site. I switched to a new, more minimal black and white theme, simplified the main navigation, and added all of the site pages to the footer to make them more discoverable than they were before.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "With the new year I was ready for a change to my site. I switched to a new, more minimal black and white theme, simplified the main navigation, and added all of the site pages to the footer to make them more discoverable than they were before.\n\n<img src=\"uploads/2026/5b53f4abe7.png\" alt=\"The new home page of weidok.al, showing the new theme.\">\n",
+				"content_text": "With the new year I was ready for a change to my site. I switched to a new, more minimal black and white theme, simplified the main navigation, and added all of the site pages to the footer to make them more discoverable than they were before.\n\n<img src=\"https://cdn.uploads.micro.blog/139317/2026/5b53f4abe7.png\" alt=\"The new home page of weidok.al, showing the new theme.\">\n",
 				"date_published": "2026-01-02T15:47:05-05:00",
 				"url": "https://weidok.al/2026/01/02/with-the-new-year-i.html",
 				"tags": ["microblogs"]
