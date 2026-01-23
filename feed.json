@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://jakeweidokal.micro.blog/2026/01/23/wcf-reflection-wtf.html",
+				"title": "WCF + Reflection = WTF",
+				"content_html": "<p>My morning consisted of investigating legacy WCF service code that was using reflection-based pattern matching to apply custom validators.</p>\n<p>I had to increase my coffee intake for that one 😅☕</p>\n<p>It&rsquo;s really easy to just ask an AI agent what the code is doing in these situations, but I like looking at it myself to make sure I really internalize and understand it. Also, agents can be very wrong and confident at the same time. Mine confidently told me how the logic was working, but was only about 75% correct and missed key details that misrepresented the flow.</p>\n<p>On the other hand&hellip; My agent wrote a dang good analysis summary into a markdown file after I made sure it had all the details correct.</p>\n",
+				"content_text": "My morning consisted of investigating legacy WCF service code that was using reflection-based pattern matching to apply custom validators.\n\nI had to increase my coffee intake for that one 😅☕\n\nIt's really easy to just ask an AI agent what the code is doing in these situations, but I like looking at it myself to make sure I really internalize and understand it. Also, agents can be very wrong and confident at the same time. Mine confidently told me how the logic was working, but was only about 75% correct and missed key details that misrepresented the flow.\n\nOn the other hand... My agent wrote a dang good analysis summary into a markdown file after I made sure it had all the details correct.\n",
+				"date_published": "2026-01-23T10:33:41-05:00",
+				"url": "https://weidok.al/2026/01/23/wcf-reflection-wtf.html",
+				"tags": ["articles"]
+			},
+			{
 				"id": "http://jakeweidokal.micro.blog/2026/01/16/im-concerned-the-cleaning-place.html",
 				
 				"content_html": "<p>I&rsquo;m concerned. The cleaning place with the AI voice agent called back. This time I asked if this is an AI voice agent. The voice chuckled and said &ldquo;No, I&rsquo;m not, I get that all the time&rdquo;. But I know that was not a real person. Why set up these voice agents to lie about what they are? Spooky.</p>\n",
