@@ -7,10 +7,28 @@
 	"items": [
 		
 			{
+				"id": "http://jakeweidokal.micro.blog/2026/02/06/082718.html",
+				
+				"content_html": "<p>My new favorite quick breakfast is cottage cheese + granola + everything bagel seasoning. It&rsquo;s sneaky good. And healthy!</p>\n",
+				"content_text": "My new favorite quick breakfast is cottage cheese + granola + everything bagel seasoning. It's sneaky good. And healthy!\n",
+				"date_published": "2026-02-06T08:27:18-05:00",
+				"url": "https://weidok.al/2026/02/06/082718.html",
+				"tags": ["microblogs"]
+			},
+			{
+				"id": "http://jakeweidokal.micro.blog/2026/02/06/my-new-favorite-quick-breakfast.html",
+				
+				"content_html": "<p>My new favorite quick breakfast is cottage cheese + granola + everything bagel seasoning. It&rsquo;s sneaky good. And healthy!</p>\n",
+				"content_text": "My new favorite quick breakfast is cottage cheese + granola + everything bagel seasoning. It's sneaky good. And healthy!\n",
+				"date_published": "2026-02-06T08:27:18-05:00",
+				"url": "https://weidok.al/2026/02/06/my-new-favorite-quick-breakfast.html",
+				"tags": ["microblogs"]
+			},
+			{
 				"id": "http://jakeweidokal.micro.blog/2026/02/02/i-had-used-ezmppro-to.html",
 				
-				"content_html": "<p>I had used <a href=\"https://ezmp3.pro\">ezmp3.pro</a> to download mp3s from YouTube video URLs onto my watch for runs, but this morning I came across the command-line tool <a href=\"https://github.com/yt-dlp/yt-dlp/blob/master/README.md#installation\">yt-dlp</a>. So far it has been easy to use and was able to download 96 separate mp3 files from a playlist URL with this command: <code>yt-dlp -x --audio-format mp3 --audio-quality 0 -o &quot;%(playlist_index)s - %(title)s.%(ext)s&quot; &quot;URL&quot;</code></p>\n",
-				"content_text": "I had used [ezmp3.pro](https://ezmp3.pro) to download mp3s from YouTube video URLs onto my watch for runs, but this morning I came across the command-line tool [yt-dlp](https://github.com/yt-dlp/yt-dlp/blob/master/README.md#installation). So far it has been easy to use and was able to download 96 separate mp3 files from a playlist URL with this command: `yt-dlp -x --audio-format mp3 --audio-quality 0 -o \"%(playlist_index)s - %(title)s.%(ext)s\" \"URL\"`\n\n",
+				"content_html": "<p>I had used <a href=\"https://ezmp3.pro\">ezmp3.pro</a> to download mp3s from YouTube video URLs onto my watch for runs, but this morning I came across the command-line tool <a href=\"https://github.com/yt-dlp/yt-dlp/blob/master/README.md\">yt-dlp</a>. So far it has been easy to use and was able to download 96 separate mp3 files from a playlist URL with this command: <code>yt-dlp -x --audio-format mp3 --audio-quality 0 -o &quot;%(playlist_index)s - %(title)s.%(ext)s&quot; &quot;URL&quot;</code></p>\n",
+				"content_text": "I had used [ezmp3.pro](https://ezmp3.pro) to download mp3s from YouTube video URLs onto my watch for runs, but this morning I came across the command-line tool [yt-dlp](https://github.com/yt-dlp/yt-dlp/blob/master/README.md). So far it has been easy to use and was able to download 96 separate mp3 files from a playlist URL with this command: `yt-dlp -x --audio-format mp3 --audio-quality 0 -o \"%(playlist_index)s - %(title)s.%(ext)s\" \"URL\"`\n\n",
 				"date_published": "2026-02-02T06:10:50-05:00",
 				"url": "https://weidok.al/2026/02/02/i-had-used-ezmppro-to.html",
 				"tags": ["microblogs"]
@@ -37,7 +55,7 @@
 				"id": "http://jakeweidokal.micro.blog/2026/01/24/today-i-discovered-httpsminiaturecalendarcom-these.html",
 				
 				"content_html": "<p>Today I discovered <a href=\"https://miniature-calendar.com/\">miniature-calendar.com</a></p>\n<p>These miniature scenes with everyday objects are so fun to look at.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Today I discovered [miniature-calendar.com](https://miniature-calendar.com/)\n\nThese miniature scenes with everyday objects are so fun to look at.\n\n<img src=\"uploads/2026/7421ffcc47.jpg\" width=\"600\" height=\"600\" alt=\"Miniature figures are warming themselves around a campfire made from a container of cotton swabs, with trees in the background.\">\n",
+				"content_text": "Today I discovered [miniature-calendar.com](https://miniature-calendar.com/)\n\nThese miniature scenes with everyday objects are so fun to look at.\n\n<img src=\"https://cdn.uploads.micro.blog/139317/2026/7421ffcc47.jpg\" width=\"600\" height=\"600\" alt=\"Miniature figures are warming themselves around a campfire made from a container of cotton swabs, with trees in the background.\">\n",
 				"date_published": "2026-01-24T10:32:02-05:00",
 				"url": "https://weidok.al/2026/01/24/today-i-discovered-httpsminiaturecalendarcom-these.html",
 				"tags": ["microblogs"]
